@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5729ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffb00&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+visitor!;My+name+is+Eric+Lourenço+Corrêa;I'm+18+years+old;And+I+study+Information+Systems+at+FURG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffb00&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+visitor!;My+name+is+Eric+Lourenço+Corrêa;I'm+19+years+old;And+I+study+Information+Systems+at+FURG)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kiincoder&show_icons=true&count_private=true&hide_border=true&title_color=5729ff&icon_color=fffb00&text_color=c9d1d9&bg_color=0d1117" alt="Kiincoder github stats" /> 
@@ -26,8 +26,6 @@
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
     
-  ## Studying in this moment:
-  ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=Cpp&labelColor=0D1117)&nbsp;
 </div>
 
 <div align="center">
