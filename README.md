@@ -24,7 +24,7 @@
   ## Other Knowledge:
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   ![React](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![React Native](https://img.shields.io/badge/-reactnative-0D1117?style=for-the-badge&logo=reactnative&labelColor=0D1117)&nbsp;
+  ![ReactNative](https://img.shields.io/badge/-react_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
     
 </div>
