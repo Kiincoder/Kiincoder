@@ -30,6 +30,9 @@
   ## Other knowladge:
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   ![Firebase](https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+  ![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+  ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=gitse&labelColor=0D1117)&nbsp;
+  
   
     
 </div>
